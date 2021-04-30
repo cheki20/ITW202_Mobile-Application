@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO_11</string>
+    <string name="hello">Hello World</string>
+    <string name="click">Click Here To Change Colour</string>
+</resources>
